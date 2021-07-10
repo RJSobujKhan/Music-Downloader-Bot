@@ -24,7 +24,7 @@ Easy To Deploy 🤗
 You can also join our support group [HERE!](https://t.me/PremiumAppsAndModAppsFreeGroup) 👨🏻‍💻
 
 # Report error
-Report your problem along with your name to This [PERSON](https://t.me/IMVRI) 😪
+Report your problem along with your name to This [PERSON](https://t.me/RJSobujKhan) 😪
 ## credits
-This Repo Is Just A Custom Fork Of [Alexa](https://github.com/Mr-SHRLCK/Alexa)
+This Repo Is Just A Custom Fork Of [RJSobujKhan](https://github.com/Mr-SHRLCK/Alexa)
 Thanks to [「𝙨𝙝є𝙧𝙡σ𝙘𝙠」](https:t.me/Mr_SRLOCK)
