@@ -2,7 +2,7 @@
 
 [Video](https://youtu.be/3pN0W4KzzNY) 🎥
 
-Repo : [SongPlayRoBot 🎻](https://GitHub.Com/TamilBots/SongPlayRoBot)
+Repo : [MusicDownloaderBot 🎻](https://GitHub.Com/RJSobujKhan/MusicDownloaderBot)
 
 Bot : [Song Play Bot 🧚‍](https://t.me/SongPlayRoBot)
 
@@ -11,17 +11,17 @@ Bot : [Song Play Bot 🧚‍](https://t.me/SongPlayRoBot)
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [SongPlayRoBot](https://t.me/SongPlayRoBot) 💃🏻
+Demo : [MusicDownloaderBot](https://t.me/MusicDownloadersBot) 💃🏻
 
 Easy To Deploy 🤗
 
 # Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/cb7b0aead06c96955323e.jpg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
+[![Deploy](https://telegra.ph/file/cb7b0aead06c96955323e.jpg)](https://heroku.com/deploy?template=https://github.com/RJSobujKhan/MusicDownloaderBot.git)
 # DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RJSobujKhan/MusicDownloaderBot.git)
 
 # Group
-You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
+You can also join our support group [HERE!](https://t.me/PremiumAppsAndModAppsFreeGroup) 👨🏻‍💻
 
 # Report error
 Report your problem along with your name to This [PERSON](https://t.me/IMVETRI) 😪
