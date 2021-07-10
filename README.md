@@ -4,7 +4,7 @@
 
 Repo : [MusicDownloaderBot 🎻](https://GitHub.Com/RJSobujKhan/MusicDownloaderBot)
 
-Bot : [Song Play Bot 🧚‍](https://t.me/SongPlayRoBot)
+Bot : [Music Downloader Bot 🧚‍](https://t.me/MusicDownloadersBot)
 
 # SongPlayRoBot
 3X Fast Telethon Based Bot ⚜
@@ -24,7 +24,7 @@ Easy To Deploy 🤗
 You can also join our support group [HERE!](https://t.me/PremiumAppsAndModAppsFreeGroup) 👨🏻‍💻
 
 # Report error
-Report your problem along with your name to This [PERSON](https://t.me/IMVETRI) 😪
+Report your problem along with your name to This [PERSON](https://t.me/IMVRI) 😪
 ## credits
 This Repo Is Just A Custom Fork Of [Alexa](https://github.com/Mr-SHRLCK/Alexa)
 Thanks to [「𝙨𝙝є𝙧𝙡σ𝙘𝙠」](https:t.me/Mr_SRLOCK)
